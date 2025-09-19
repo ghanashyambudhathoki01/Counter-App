@@ -22,7 +22,7 @@
 
 <h2>Description</h2>
 <p>
-  A simple counter application that demonstrates increment, decrement, and reset functionality. 
+  A simple counter application that demonstrates increment, decrement multiply division. 
   It serves as a beginner-friendly project for learning and practicing programming concepts.
 </p>
 
