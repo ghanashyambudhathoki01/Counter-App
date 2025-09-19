@@ -48,6 +48,11 @@
   </li>
 </ul>
 <h3> Counter App Screenshot </h3>
+<a href="https://github.com/ghanashyambudhathoki01/Counter-App/blob/main/counter_app/Counter%20App%20Screenshot.jpg?raw=true" target="_blank">
+  <img src="https://github.com/ghanashyambudhathoki01/Counter-App/blob/main/counter_app/Counter%20App%20Screenshot.jpg?raw=true" 
+       alt="Counter App Screenshot" 
+       width="400">
+</a>
 
 <h2>Getting Started</h2>
 
