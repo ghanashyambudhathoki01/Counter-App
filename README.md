@@ -26,13 +26,28 @@
   It serves as a beginner-friendly project for learning and practicing programming concepts.
 </p>
 
-<h2>Features</h2>
+<h2>✨ Features</h2>
+
 <ul>
-  <li>Increment the counter value</li>
-  <li>Decrement the counter value</li>
-  <li>Reset counter to zero</li>
-  <li>Clean and minimal UI</li>
+  <li>
+    <strong>Welcome Screen:</strong>  
+    A clean landing page with a counter-themed image, app title, and a navigation button.  
+    This provides users with a simple and engaging introduction before using the app.
+  </li>
+  <br>
+  <li>
+    <strong>Counter Functionality Screen:</strong>  
+    Displays the current counter value and offers four operation buttons:
+    <ul>
+      <li><code>+</code> → Increments the counter</li>
+      <li><code>-</code> → Decrements the counter</li>
+      <li><code>*</code> → Multiplies the counter</li>
+      <li><code>/</code> → Divides the counter</li>
+    </ul>
+    Users can easily perform arithmetic operations while tracking their counter value.
+  </li>
 </ul>
+<h3> Counter App Screenshot </h3>
 
 <h2>Getting Started</h2>
 
